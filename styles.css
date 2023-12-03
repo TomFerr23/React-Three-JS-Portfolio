@@ -1,0 +1,25 @@
+
+/* styles.css */
+@font-face {
+    font-family: 'Söhne';
+    src: url('public/img/font/TestSöhne-Kräftig.otf') format('otf');
+    font-weight: 500; /* specify the font weight */
+  }
+  
+  @font-face {
+    font-family: 'Söhne';
+    src: url('public/img/font/TestSöhne-Fett.otf') format('otf');
+    font-weight: 700; 
+  }
+  
+  @font-face {
+    font-family: 'PP Mori';
+    src: url('public/img/font/PPMori-Regular.otf') format('otf');
+  }
+  
+  @font-face {
+    font-family: 'PP Mori';
+    src: url('public/img/font/PPMori-SemiBold.otf') format('otf');
+    font-weight: 600;
+  }
+  
